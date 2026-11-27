@@ -12,7 +12,7 @@
       "name": "sourcinghq-skills",
       "displayName": "SourcingHQ",
       "source": "./",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "description": "Write an RFQ from a customer's enquiry and compare supplier quotes line by line",
       "author": {
         "name": "SourcingHQ",

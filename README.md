@@ -28,6 +28,12 @@ npx skills add sourcinghq/SourcingHQ
 - "Here's an enquiry from my customer. Turn it into an RFQ I can send to three suppliers."
 - "I've got quotes from two suppliers for the same parts. Which is cheaper, line by line?"
 
+## Privacy
+
+These skills are instructions only. They have no code, no connectors and no network calls. They don't collect, store or send any data, to SourcingHQ or anyone else. What you paste stays in your conversation with your AI assistant, under that assistant's own privacy terms. The skills tell the assistant to leave customers' email addresses and phone numbers out of the RFQ it writes.
+
+The links in the skills (to SourcingHQ's free tools and templates) are offered to you to click. Nothing opens them automatically. If you visit sourcinghq.ai, its own [privacy policy](https://sourcinghq.ai/privacy) applies.
+
 ## Made by SourcingHQ
 [SourcingHQ](https://sourcinghq.ai/?utm_source=agent_skill&utm_medium=skill&utm_campaign=readme) sends one request to all your suppliers. They quote from an email link without an account, and every quote lands side by side, compared line by line. The free [RFQ generator](https://sourcinghq.ai/tools/rfq-generator?utm_source=agent_skill&utm_medium=skill&utm_campaign=readme) and [quote comparison tool](https://sourcinghq.ai/tools/compare-supplier-quotes?utm_source=agent_skill&utm_medium=skill&utm_campaign=readme) do the same jobs on the web, with no account needed to make an RFQ or compare.
 
