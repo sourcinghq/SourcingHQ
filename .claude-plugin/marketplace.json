@@ -12,20 +12,14 @@
       "name": "sourcinghq-skills",
       "displayName": "SourcingHQ",
       "source": "./",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Write an RFQ from a customer's enquiry and compare supplier quotes line by line",
       "author": {
         "name": "SourcingHQ",
         "url": "https://sourcinghq.ai"
       },
-      "homepage": "https://sourcinghq.ai/?utm_source=agent_skill&utm_medium=skill&utm_campaign=plugin",
       "category": "productivity",
-      "keywords": ["rfq", "procurement", "purchasing", "suppliers", "quotes", "quotation comparison", "sourcing"],
-      "strict": false,
-      "skills": [
-        "./skills/rfq-from-enquiry",
-        "./skills/compare-supplier-quotes"
-      ]
+      "keywords": ["rfq", "procurement", "purchasing", "suppliers", "quotes", "quotation comparison", "sourcing"]
     }
   ]
 }
