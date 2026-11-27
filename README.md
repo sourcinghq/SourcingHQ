@@ -13,15 +13,15 @@ They're instructions only: the skills make no calls to SourcingHQ or anyone else
 
 **Claude Code**
 ```
-/plugin marketplace add sourcinghq/skills
+/plugin marketplace add sourcinghq/SourcingHQ
 /plugin install sourcinghq-skills@sourcinghq
 ```
 
-**Claude apps (claude.ai, desktop):** open **Plugins**, then **Add > Add marketplace**, enter `sourcinghq/skills` and press **Sync**. Then add the **SourcingHQ** plugin.
+**Claude apps (claude.ai, desktop):** open **Plugins**, then **Add > Add marketplace**, enter `sourcinghq/SourcingHQ` and press **Sync**. Then add the **SourcingHQ** plugin.
 
 **Codex and other agents:** copy a skill's folder into your agent's skills folder (for Codex, `.agents/skills/` in your project), or:
 ```
-npx skills add sourcinghq/skills
+npx skills add sourcinghq/SourcingHQ
 ```
 
 ## Try it
