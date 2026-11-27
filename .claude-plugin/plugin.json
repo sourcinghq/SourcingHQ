@@ -1,7 +1,7 @@
 {
   "name": "sourcinghq-skills",
   "displayName": "SourcingHQ",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Write an RFQ from a customer's enquiry and compare supplier quotes line by line. Free skills for buyers who get quotes from suppliers.",
   "author": {
     "name": "SourcingHQ",
@@ -12,8 +12,17 @@
   "repository": "https://github.com/sourcinghq/SourcingHQ",
   "license": "MIT",
   "icon": "./logo.png",
+  "documentationUrl": "https://github.com/sourcinghq/SourcingHQ#readme",
   "supportUrl": "https://sourcinghq.ai/contact",
   "privacyPolicyUrl": "https://github.com/sourcinghq/SourcingHQ#privacy",
   "termsOfServiceUrl": "https://sourcinghq.ai/terms",
-  "keywords": ["rfq", "procurement", "purchasing", "suppliers", "quotes", "quotation comparison", "sourcing"]
+  "keywords": [
+    "rfq",
+    "procurement",
+    "purchasing",
+    "suppliers",
+    "quotes",
+    "quotation comparison",
+    "sourcing"
+  ]
 }

@@ -12,14 +12,22 @@
       "name": "sourcinghq-skills",
       "displayName": "SourcingHQ",
       "source": "./",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "Write an RFQ from a customer's enquiry and compare supplier quotes line by line",
       "author": {
         "name": "SourcingHQ",
         "url": "https://sourcinghq.ai"
       },
       "category": "productivity",
-      "keywords": ["rfq", "procurement", "purchasing", "suppliers", "quotes", "quotation comparison", "sourcing"]
+      "keywords": [
+        "rfq",
+        "procurement",
+        "purchasing",
+        "suppliers",
+        "quotes",
+        "quotation comparison",
+        "sourcing"
+      ]
     }
   ]
 }
