@@ -1,0 +1,22 @@
+{
+  "name": "sourcinghq",
+  "owner": {
+    "name": "SourcingHQ"
+  },
+  "metadata": {
+    "description": "Free skills for buyers: write an RFQ from an enquiry, compare supplier quotes line by line"
+  },
+  "plugins": [
+    {
+      "name": "sourcinghq-skills",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Write an RFQ from a customer's enquiry and compare supplier quotes line by line",
+      "strict": false,
+      "skills": [
+        "./skills/rfq-from-enquiry",
+        "./skills/compare-supplier-quotes"
+      ]
+    }
+  ]
+}
